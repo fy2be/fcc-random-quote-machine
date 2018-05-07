@@ -4,7 +4,7 @@ const tweetMe = document.querySelector('.tweet');
 
 const tweetConfig = {
   'iurl': 'https://twitter.com/intent/tweet',
-  'url': 'https://codepen.io/czesi0/pen/oErvNd',
+  'url': 'https://github.com/fy2be/fcc-random-quote-machine',
   'hashtags': 'fcc,freecodecamp,randomquotemachine'
 };
 
